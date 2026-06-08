@@ -1,7 +1,7 @@
 # Glyde Games — Legal
 
 Static legal pages (Privacy Policy & Terms of Use) for Glyde Games mobile apps,
-hosted on Vercel. Operated by **Glyde Games Oyun ve Yazilim Anonim Sirketi**.
+hosted on Vercel. Operated by **Glyde Games Oyun ve Yazılım Anonim Şirketi**.
 
 ## Structure
 ```
